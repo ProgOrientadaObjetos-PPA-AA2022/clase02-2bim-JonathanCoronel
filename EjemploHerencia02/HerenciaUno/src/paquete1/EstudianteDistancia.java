@@ -19,7 +19,7 @@ public class EstudianteDistancia extends Estudiante{
     // 3.  Método establecerCostoAsignatura(valor: Real)
     public void establecerCostoAsignatura(double valor){
         costoAsignatura = valor;
-    }
+    }   
 
     // 4.  Método calcularMatriculaDistancia()
     public void calcularMatriculaDistancia(){
